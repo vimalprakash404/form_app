@@ -36,11 +36,9 @@ const insertStudent = async (req, res) => {
         const os = userAgent.os;
         const device = userAgent.isDesktop ? 'Desktop' : (userAgent.isMobile ? 'Mobile' : 'Tablet');
         const browser=userAgent.browser;
-        const geo = geoip.lookup(ip);
-        const ip_location = geo ? `${geo.city}, ${geo.country}` : 'Unknown';
         console.log(userAgent)
         console.log("existing data" + existingStudent);
-        const newStudent = new studentModel({ name, email, mobile, college, department, sem ,preferred_location ,ip ,os , device , ip_location });
+        const newStudent = new studentModel({ name, email, mobile, college, department, sem ,preferred_location ,ip ,os , device  });
         const result = await newStudent.save();
         return res.status(200).json({ status: "success", result })
     }

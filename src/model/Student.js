@@ -35,7 +35,6 @@ const studentSchema = new mongoose.Schema({
     ip: String,
     os : String ,
     device : String ,
-    ip_location :String ,
     date_time : {
         type : Date,
         default : Date.now()
