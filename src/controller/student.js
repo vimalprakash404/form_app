@@ -1,6 +1,9 @@
 const { reconstructFieldPath } = require("express-validator/src/field-selection")
 const studentModel = require("../model/Student")
 const { body, validationResult } = require("express-validator")
+const geoip = require('geoip-lite');
+
+
 const studentValidator = [
     body('name').isString().notEmpty(),
     body('email').isEmail().notEmpty(),
@@ -15,7 +18,8 @@ const insertStudent = async (req, res) => {
         if (!errors.isEmpty()) {
             return res.status(401).json({ status: "error", error: errors.array() })
         }
-        const { name ,email, mobile ,college , department, sem} = req.body;
+        const { name, email, mobile, college, department, sem, preferred_location } = req.body;
+        console.log(req.body);
         const existingStudent = await studentModel.findOne({
             $or: [
                 { email: email },
@@ -25,8 +29,17 @@ const insertStudent = async (req, res) => {
         if (existingStudent !== null) {
             return res.status(403).json({ status: "error", message: "email or phone already exists" })
         }
+        const ip = req.headers['x-forwarded-for'] || req.connection.remoteAddress;
+        const userAgent = req.useragent;
+
+        // Extracting operating system, device, and location
+        const os = userAgent.os;
+        const device = userAgent.isDesktop ? 'Desktop' : (userAgent.isMobile ? 'Mobile' : 'Tablet');
+        const geo = geoip.lookup(ip);
+        const ip_location = geo ? `${geo.city}, ${geo.country}` : 'Unknown';
+
         console.log("existing data" + existingStudent);
-        const newStudent = new studentModel({name, email, mobile ,college , department, sem});
+        const newStudent = new studentModel({ name, email, mobile, college, department, sem ,preferred_location ,ip ,os , device , ip_location });
         const result = await newStudent.save();
         return res.status(200).json({ status: "success", result })
     }
@@ -37,24 +50,26 @@ const insertStudent = async (req, res) => {
 
 }
 
-const emailValidator= [
+const emailValidator = [
     body('email').isEmail()
 ]
-const emailCheck =async (req, res)=>{
+const emailCheck = async (req, res) => {
     const errors = validationResult(req)
-    if(!errors.isEmpty()){
-        return res.status(401).json({status:"error",error:errors.array()})
+    if (!errors.isEmpty()) {
+        return res.status(401).json({ status: "error", error: errors.array() })
     }
     else {
-        const {email} = req.body;
-        const existingStudent = await studentModel.findOne({ $or: [
-            { email: email }
-        ]})
+        const { email } = req.body;
+        const existingStudent = await studentModel.findOne({
+            $or: [
+                { email: email }
+            ]
+        })
         if (existingStudent !== null) {
-            return res.status(200).json({status:true})
+            return res.status(200).json({ status: true })
         }
-        else{
-            return res.status(200).json({status : false })
+        else {
+            return res.status(200).json({ status: false })
         }
     }
 }
@@ -63,24 +78,26 @@ const mobileValidator = [
     body("mobile")
 ]
 
-const mobileCheck = async (req, res) =>{
+const mobileCheck = async (req, res) => {
     const errors = validationResult(req)
-    if(!errors.isEmpty()){
-        return res.status(401).json({status:"error",error:errors.array()})
+    if (!errors.isEmpty()) {
+        return res.status(401).json({ status: "error", error: errors.array() })
     }
     else {
-        const {mobile} = req.body;
-        const existingStudent = await studentModel.findOne({ $or: [
-            { mobile: mobile }
-        ]})
+        const { mobile } = req.body;
+        const existingStudent = await studentModel.findOne({
+            $or: [
+                { mobile: mobile }
+            ]
+        })
         if (existingStudent !== null) {
-            return res.status(200).json({status:true})
+            return res.status(200).json({ status: true })
         }
-        else{
-            return res.status(200).json({status : false })
+        else {
+            return res.status(200).json({ status: false })
         }
     }
 }
 
 
-module.exports = { insertStudent, studentValidator , emailValidator , mobileCheck , emailCheck  , mobileValidator };
+module.exports = { insertStudent, studentValidator, emailValidator, mobileCheck, emailCheck, mobileValidator };

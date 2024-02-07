@@ -28,7 +28,14 @@ const studentSchema = new mongoose.Schema({
     sem :{
         type : String ,
         require : true 
-    }
+    },
+    preferred_location:{
+        type : String
+    },
+    ip: String,
+    os : String ,
+    device : String ,
+    iplocation :String 
 });
 
 const Person = mongoose.model('Student',studentSchema);

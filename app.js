@@ -5,6 +5,10 @@ const bodyParser = require('body-parser');
 const path = require("path")
 require("./src/db/connection")
 const port = 4000
+const useragent = require('express-useragent');
+
+
+app.use(useragent.express());
 var cors = require('cors')
 
 
