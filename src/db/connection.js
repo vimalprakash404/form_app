@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 
 
-mongoose.connect('mongodb+srv://ICTAK:WcM2KoCFDLSzHKpU@cluster0.k2kcxe6.mongodb.net/', {
+mongoose.connect('mongodb+srv://localhost:27017', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
