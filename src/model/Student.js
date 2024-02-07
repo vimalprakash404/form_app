@@ -35,7 +35,11 @@ const studentSchema = new mongoose.Schema({
     ip: String,
     os : String ,
     device : String ,
-    iplocation :String 
+    ip_location :String ,
+    date_time : {
+        type : Date,
+        default : Date.now()
+    }
 });
 
 const Person = mongoose.model('Student',studentSchema);
