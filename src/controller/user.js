@@ -1,7 +1,7 @@
 const bcrypt = require('bcrypt');
 const User = require('../model/user');
 const jwt = require('jsonwebtoken');
-
+const Log = require("../model/Log")
 // Sign-up function
 async function signUp(username, password) {
   try {
@@ -17,7 +17,7 @@ async function signUp(username, password) {
     await newUser.save();
     return { success: true, message: 'User signed up successfully' };
   } catch (error) {
-    return { success: false, message: 'An error occurred while signing up'+error };
+    return { success: false, message: 'An error occurred while signing up' + error };
   }
 }
 
@@ -36,16 +36,27 @@ async function login(username, password) {
       return { success: false, message: 'Invalid password' };
     }
     const token = jwt.sign({ userId: user._id }, secretKey, { expiresIn: '10h' });
+    const logEntry = new Log({
+      action: 'User login',
+      user: user._id 
+    });
+    logEntry.save()
+      .then(savedLog => {
+        console.log('Log saved:', savedLog);
+      })
+      .catch(error => {
+        console.error('Error saving log:', error);
+      });
     return { success: true, message: 'Login successful', token };
   } catch (error) {
-    return { success: false, message: 'An error occurred while logging in' + error};
+    return { success: false, message: 'An error occurred while logging in' + error };
   }
 }
 
 
-const userLogin =async (req,res) => {
-  res.status(200).json(await login(req.body.username,req.body.password));
+const userLogin = async (req, res) => {
+  res.status(200).json(await login(req.body.username, req.body.password));
 };
 
 
-module.exports = {userLogin,signUp};
+module.exports = { userLogin, signUp };
