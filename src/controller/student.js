@@ -38,7 +38,8 @@ const insertStudent = async (req, res) => {
         const browser=userAgent.browser;
         console.log(userAgent)
         console.log("existing data" + existingStudent);
-        const newStudent = new studentModel({ name, email, mobile, college, department, sem ,preferred_location ,ip ,os , device  });
+        const date_time = new Date();
+        const newStudent = new studentModel({ name, email, mobile, college, department, sem ,preferred_location ,ip ,os , device  , date_time });
         const result = await newStudent.save();
         return res.status(200).json({ status: "success", result })
     }
