@@ -15,12 +15,12 @@ async function getCollegeNamesWithDistricts(zone) {
 }
 
 async function getNorthCollege(req, res){
-    const data = await getCollegeNamesWithDistricts("south")
+    const data = await getCollegeNamesWithDistricts("north")
     return res.status(200).json({colleges : data})
 }
 
 async function getSouthCollege(req, res){
-    const data = await getCollegeNamesWithDistricts("north")
+    const data = await getCollegeNamesWithDistricts("south")
     return res.status(200).json({colleges : data})
 }
 
@@ -32,7 +32,7 @@ async function getAllCollege(req , res) {
       const formattedColleges = colleges.map(college => `${college.name} [${college.district}]`);
   
       console.log('College names with districts:', formattedColleges);
-      return formattedColleges;
+      return res.status(200).json({"colleges":formattedColleges});
     } catch (error) {
       console.error('Error fetching college names with districts:', error.message);
       throw error;

@@ -1,963 +1,1397 @@
 [
-    {
-      "name": "Ahalia School of Engineering and Technology",
-      "district": "Palakkad",
-      "zone": "north"
-    },
-    {
-      "name": "Amal College of Advanced Studies",
-      "district": "Malapuram",
-      "zone": "north"
-    },
-    {
-      "name": "Centre For Computer Science and Information Technology Vatakara Ccsit Vatakara",
-      "district": "Kozhikode",
-      "zone": "north"
-    },
-    {
-      "name": "Chinmaya Arts and Science College For Women",
-      "district": "Kannur",
-      "zone": "north"
-    },
-    {
-      "name": "College of Applied Science Nadapuram",
-      "district": "Kozhikode",
-      "zone": "north"
-    },
-    {
-      "name": "College of Applied Science Vadakkencherry",
-      "district": "Palakkad",
-      "zone": "north"
-    },
-    {
-      "name": "College of Engineering Thalassery",
-      "district": "Kannur",
-      "zone": "north"
-    },
-    {
-      "name": "College of Engineering Trikaripur",
-      "district": "Kasaragode",
-      "zone": "north"
-    },
-    {
-      "name": "College of Engineering Vadakara",
-      "district": "Kozhikode",
-      "zone": "north"
-    },
-    {
-      "name": "De Paul Institute of Science and Technology",
-      "district": "Malapuram",
-      "zone": "north"
-    },
-    {
-      "name": "Department of Information Technology Kannur University",
-      "district": "Kannur",
-      "zone": "north"
-    },
-    {
-      "name": "Don Bosco Arts and Science College Angadikadavu",
-      "district": "Kannur",
-      "zone": "north"
-    },
-    {
-      "name": "Don Bosco College",
-      "district": "Wayanad",
-      "zone": "north"
-    },
-    {
-      "name": "E K Nayanar Memorial Model Polytechnic College Kalliassery",
-      "district": "Kannur",
-      "zone": "north"
-    },
-    {
-      "name": "Farook College",
-      "district": "Kozhikode",
-      "zone": "north"
-    },
-    {
-      "name": "Government Arts and Science College Calicut",
-      "district": "Kozhikode",
-      "zone": "north"
-    },
-    {
-      "name": "Government College Madappally",
-      "district": "Kozhikode",
-      "zone": "north"
-    },
-    {
-      "name": "Government Engineering College Wayanad",
-      "district": "Wayanad",
-      "zone": "north"
-    },
-    {
-      "name": "Government Polytechnic College Mattannur",
-      "district": "Kannur",
-      "zone": "north"
-    },
-    {
-      "name": "Government Polytechnic College Meppadi",
-      "district": "Wayanad",
-      "zone": "north"
-    },
-    {
-      "name": "Govt College Manathavady",
-      "district": "Wayanad",
-      "zone": "north"
-    },
-    {
-      "name": "Govt Law College Kozhikode",
-      "district": "Kozhikode",
-      "zone": "north"
-    },
-    {
-      "name": "Gurudev Arts and Science College",
-      "district": "Kannur",
-      "zone": "north"
-    },
-    {
-      "name": "Ideal College For Advanced Studies Kadakassery",
-      "district": "Malapuram",
-      "zone": "north"
-    },
-    {
-      "name": "Ihrd College of Applied Science Kozhikode",
-      "district": "Kozhikode",
-      "zone": "north"
-    },
-    {
-      "name": "Institute of Engineering and Technology University of Calicut",
-      "district": "Malapuram",
-      "zone": "north"
-    },
-    {
-      "name": "Jawaharlal College of Engineering and Technology",
-      "district": "Palakkad",
-      "zone": "north"
-    },
-    {
-      "name": "Jayasree Arts and Science College",
-      "district": "Wayanad",
-      "zone": "north"
-    },
-    {
-      "name": "Jdt Islam College of Arts and Science",
-      "district": "Kozhikode",
-      "zone": "north"
-    },
-    {
-      "name": "Jdt Islam Polytechnic College Kozhikode",
-      "district": "Kozhikode",
-      "zone": "north"
-    },
-    {
-      "name": "Kannur University",
-      "district": "Kannur",
-      "zone": "north"
-    },
-    {
-      "name": "Kerala Govt Polytechnic College Kozhikode",
-      "district": "Kozhikode",
-      "zone": "north"
-    },
-    {
-      "name": "Kmo Arts and Science College Koduvally",
-      "district": "Kozhikode",
-      "zone": "north"
-    },
-    {
-      "name": "Little Flower Institute of Social Sciences and Health",
-      "district": "Kozhikode",
-      "zone": "north"
-    },
-    {
-      "name": "Majlis Arts and Science College",
-      "district": "Malapuram",
-      "zone": "north"
-    },
-    {
-      "name": "Malabar Christian College",
-      "district": "Kozhikode",
-      "zone": "north"
-    },
-    {
-      "name": "Malabar College of Commerce and Science Manoor",
-      "district": "Malapuram",
-      "zone": "north"
-    },
-    {
-      "name": "Mes Mampad College",
-      "district": "Malapuram",
-      "zone": "north"
-    },
-    {
-      "name": "Mes Ponnani College",
-      "district": "Malapuram",
-      "zone": "north"
-    },
-    {
-      "name": "Met Arts and Science College Nadapuram",
-      "district": "Kozhikode",
-      "zone": "north"
-    },
-    {
-      "name": "Mhes College of Science and Technology",
-      "district": "Kozhikode",
-      "zone": "north"
-    },
-    {
-      "name": "Mk Raghavan Memorial Sndp Yogam Arts and Science College",
-      "district": "Wayanad",
-      "zone": "north"
-    },
-    {
-      "name": "Model Polytechnic College",
-      "district": "Kozhikode",
-      "zone": "north"
-    },
-    {
-      "name": "Monti International Institute of Management Studies",
-      "district": "Malapuram",
-      "zone": "north"
-    },
-    {
-      "name": "National College of Arts and Science Puliyavu",
-      "district": "Kozhikode",
-      "zone": "north"
-    },
-    {
-      "name": "Pk Kalan Memorial College of Applied Science Manantgavady",
-      "district": "Wayanad",
-      "zone": "north"
-    },
-    {
-      "name": "Rajadhani Institute of Science and Technology Palakkad",
-      "district": "Palakkad",
-      "zone": "north"
-    },
-    {
-      "name": "Safi Institute of Advanced Study Vazhayoor",
-      "district": "Malapuram",
-      "zone": "north"
-    },
-    {
-      "name": "Sir Syed Institute For Technical Studies",
-      "district": "Kannur",
-      "zone": "north"
-    },
-    {
-      "name": "Snes Institute of Management Studies and Research",
-      "district": "Kozhikode",
-      "zone": "north"
-    },
-    {
-      "name": "Sree Narayana College Kannur",
-      "district": "Kannur",
-      "zone": "north"
-    },
-    {
-      "name": "Sreekrishnapuram V T Bhattathiripad College",
-      "district": "Palakkad",
-      "zone": "north"
-    },
-    {
-      "name": "Sreepathy Institute of Management and Technology",
-      "district": "Palakkad",
-      "zone": "north"
-    },
-    {
-      "name": "Ssm Polytechnic College Tirur",
-      "district": "Malapuram",
-      "zone": "north"
-    },
-    {
-      "name": "St Josephs College Devagiri",
-      "district": "Kozhikode",
-      "zone": "north"
-    },
-    {
-      "name": "St Marys College",
-      "district": "Wayanad",
-      "zone": "north"
-    },
-    {
-      "name": "St Pius X College Rajapuram",
-      "district": "Kasaragode",
-      "zone": "north"
-    },
-    {
-      "name": "St Thomas College of Engineering and Technology Mattannur Kannur Kerala",
-      "district": "Kannur",
-      "zone": "north"
-    },
-    {
-      "name": "St Xaviers Arts and Science College Calicut",
-      "district": "Kozhikode",
-      "zone": "north"
-    },
-    {
-      "name": "Sullamussalam Science College Areekode",
-      "district": "Malapuram",
-      "zone": "north"
-    },
-    {
-      "name": "Vedavyasa Institute of Technology",
-      "district": "Malapuram",
-      "zone": "north"
-    },
-    {
-      "name": "Vimal Jyothi Institute of Management and Research",
-      "district": "Kannur",
-      "zone": "north"
-    },
-    {
-      "name": "Wmo Imam Ghazzali Arts and Science College",
-      "district": "Wayanad",
-      "zone": "north"
-    },
-    {
-      "name": "Government Women's Polytechnic College",
-      "district": "Kozhikode",
-      "zone": "north"
-    },
-    {
-      "name": "Vimal Jyothi Engineering College , Chemperi",
-      "district": "Kannur",
-      "zone": "north"
-    },
-    {
-      "name": "Lbs College of Engineering Kasaragod , Bovikanam",
-      "district": "Kasaragod",
-      "zone": "north"
-    },
-    {
-      "name": "College of Applied Science Thamarassery",
-      "district": "Kozhikode",
-      "zone": "north"
-    },
-    {
-      "name": "Government Engineering College Kozhikode",
-      "district": "Kozhikode",
-      "zone": "north"
-    },
-    {
-      "name": "Providence Women's College Kozhikode",
-      "district": "Kozhikode",
-      "zone": "north"
-    },
-    {
-      "name": "Mea Engineering College , Perinthalmanna",
-      "district": "Malappuram",
-      "zone": "north"
-    },
-    {
-      "name": "Mes College of Engineering Kuttippuram",
-      "district": "Malappuram",
-      "zone": "north"
-    },
-    {
-      "name": "Mes Kalladi College , Mannarkkad",
-      "district": "Palakkad",
-      "zone": "north"
-    },
-    {
-      "name": "Nss College of Engineering Palakkad",
-      "district": "Palakkad",
-      "zone": "north"
-    },
-    {
-      "name": "Yuvakshetra Institute of Management Studies",
-      "district": "Palakkad",
-      "zone": "north"
-    },
-    {
-      "name": "Wmo Arts and Science College , Muttil",
-      "district": "Wayanad",
-      "zone": "north"
-    },
-    {
-      "name": "Nilgiri College of Arts and Science , Thallor, Tamil Nadu",
-      "district": "Other",
-      "zone": "north"
-    },
-    {
-        "name": "All Saints College",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Alphonsa College Pala",
-        "district": "Kottayam",
-        "zone": "south"
-      },
-      {
-        "name": "Assumption College Autonomous",
-        "district": "Kottayam",
-        "zone": "south"
-      },
-      {
-        "name": "Baker College For Women",
-        "district": "Kottayam",
-        "zone": "south"
-      },
-      {
-        "name": "Baselios Mathews Ii College of Engineering",
-        "district": "Kollam",
-        "zone": "south"
-      },
-      {
-        "name": "Bishop Chulaparambil Memorial College",
-        "district": "Kottayam",
-        "zone": "south"
-      },
-      {
-        "name": "Bishop Kurialacherry College For Women",
-        "district": "Kottayam",
-        "zone": "south"
-      },
-      {
-        "name": "Bishop Moore College",
-        "district": "Alappuzha",
-        "zone": "south"
-      },
-      {
-        "name": "Bishop Speechly College For Advanced Studies",
-        "district": "Kottayam",
-        "zone": "south"
-      },
-      {
-        "name": "Carmel Polytechnic College Alappuzha",
-        "district": "Alappuzha",
-        "zone": "south"
-      },
-      {
-        "name": "Catholicate College Pathanamthitta",
-        "district": "Pathanamthitta",
-        "zone": "south"
-      },
-      {
-        "name": "Central Polytechnic College Trivandrum",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Christ College Vizhinjam",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Christian College Kattakada",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Cms College Kottayam Autonomous",
-        "district": "Kottayam",
-        "zone": "south"
-      },
-      {
-        "name": "College of Applied Science Adoor",
-        "district": "Pathanamthitta",
-        "zone": "south"
-      },
-      {
-        "name": "College of Applied Science Ihrd Kalanjoor",
-        "district": "Pathanamthitta",
-        "zone": "south"
-      },
-      {
-        "name": "College of Applied Science Kundara",
-        "district": "Kollam",
-        "zone": "south"
-      },
-      {
-        "name": "College of Applied Science Kuttikkanam",
-        "district": "Idukki",
-        "zone": "south"
-      },
-      {
-        "name": "College of Applied Science Mavelikkara",
-        "district": "Alappuzha",
-        "zone": "south"
-      },
-      {
-        "name": "College of Applied Science Thodupuzha",
-        "district": "Idukki",
-        "zone": "south"
-      },
-      {
-        "name": "College of Engineering Aranmula",
-        "district": "Pathanamthitta",
-        "zone": "south"
-      },
-      {
-        "name": "College of Engineering Karunagappally",
-        "district": "Kollam",
-        "zone": "south"
-      },
-      {
-        "name": "College of Engineering Kidangoor",
-        "district": "Kottayam",
-        "zone": "south"
-      },
-      {
-        "name": "College of Engineering Munnar",
-        "district": "Idukki",
-        "zone": "south"
-      },
-      {
-        "name": "College of Engineering Pathanapuram",
-        "district": "Kollam",
-        "zone": "south"
-      },
-      {
-        "name": "College of Engineering Perumon",
-        "district": "Kollam",
-        "zone": "south"
-      },
-      {
-        "name": "College of Engineering Poonjar",
-        "district": "Kottayam",
-        "zone": "south"
-      },
-      {
-        "name": "College of Engineering and Management Punnapra",
-        "district": "Alappuzha",
-        "zone": "south"
-      },
-      {
-        "name": "Dc School of Management and Technology Trivandrum",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Deva Matha College Kuravilangad",
-        "district": "Kottayam",
-        "zone": "south"
-      },
-      {
-        "name": "Don Bosco College Kottiyam",
-        "district": "Kollam",
-        "zone": "south"
-      },
-      {
-        "name": "Emmanuel College Vazhichal Thiruvananthapuram",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Government College For Women Thiruvananthapuram",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Government College Nedumangad",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Government Engineering College Idukki",
-        "district": "Idukki",
-        "zone": "south"
-      },
-      {
-        "name": "Government Polytechnic College Kottayam",
-        "district": "Kottayam",
-        "zone": "south"
-      },
-      {
-        "name": "Government Polytechnic College Nedumangad",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Government Polytechnic College Pala",
-        "district": "Kottayam",
-        "zone": "south"
-      },
-      {
-        "name": "Government Polytechnic College Punalur",
-        "district": "Kollam",
-        "zone": "south"
-      },
-      {
-        "name": "Govt Polytechnic College Neyyatinkara",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Govt Polytechnic College Vandiperiyar",
-        "district": "Idukki",
-        "zone": "south"
-      },
-      {
-        "name": "John Cox Memorial Csi Institute of Technology Kannamoola",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Kerala Institute of Cooperative Management",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Kuriakose Elias College",
-        "district": "Kottayam",
-        "zone": "south"
-      },
-      {
-        "name": "Kvm College of Arts and Science",
-        "district": "Alappuzha",
-        "zone": "south"
-      },
-      {
-        "name": "Kvm College of Engineering and It",
-        "district": "Alappuzha",
-        "zone": "south"
-      },
-      {
-        "name": "Kvvs College of Science and Technology",
-        "district": "Pathanamthitta",
-        "zone": "south"
-      },
-      {
-        "name": "Lbs Institute of Technology For Women",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Mahaguru Institute of Technology",
-        "district": "Alappuzha",
-        "zone": "south"
-      },
-      {
-        "name": "Mangalam College of Engineering",
-        "district": "Kottayam",
-        "zone": "south"
-      },
-      {
-        "name": "Mannam Memorial N S S College Kottiyam",
-        "district": "Kollam",
-        "zone": "south"
-      },
-      {
-        "name": "Mar Chrysostom College",
-        "district": "Pathanamthitta",
-        "zone": "south"
-      },
-      {
-        "name": "Mar Gregorios College of Arts and Science",
-        "district": "Alappuzha",
-        "zone": "south"
-      },
-      {
-        "name": "Mar Ivanios College Mavelikara",
-        "district": "Alappuzha",
-        "zone": "south"
-      },
-      {
-        "name": "Mar Thoma College Tiruvalla",
-        "district": "Pathanamthitta",
-        "zone": "south"
-      },
-      {
-        "name": "Model Polytechnic College Painavu",
-        "district": "Idukki",
-        "zone": "south"
-      },
-      {
-        "name": "Mohandas College of Engineering and Technology",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Mount Zion Institute of Science and Technology",
-        "district": "Alappuzha",
-        "zone": "south"
-      },
-      {
-        "name": "Musaliar College of Engineering and Technology",
-        "district": "Pathanamthitta",
-        "zone": "south"
-      },
-      {
-        "name": "Muslim Association College of Engineering Venjaramoodu",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "N S S Polytechnic College Pandalam",
-        "district": "Pathanamthitta",
-        "zone": "south"
-      },
-      {
-        "name": "Nss College Pandalam",
-        "district": "Pathanamthitta",
-        "zone": "south"
-      },
-      {
-        "name": "P G Radhakrishnan Memorial Sree Narayana College Asan Hills Channanikkadu Kottayam",
-        "district": "Kottayam",
-        "zone": "south"
-      },
-      {
-        "name": "Pgm College Kangazha",
-        "district": "Kottayam",
-        "zone": "south"
-      },
-      {
-        "name": "Providence College of Engineering",
-        "district": "Alappuzha",
-        "zone": "south"
-      },
-      {
-        "name": "Providence School of Business",
-        "district": "Alappuzha",
-        "zone": "south"
-      },
-      {
-        "name": "Sahodaran Ayyappan Smaraka Sndp Yogam College",
-        "district": "Pathanamthitta",
-        "zone": "south"
-      },
-      {
-        "name": "Sree Ayyappa College",
-        "district": "Alappuzha",
-        "zone": "south"
-      },
-      {
-        "name": "Sree Narayan College Kollam",
-        "district": "Kollam",
-        "zone": "south"
-      },
-      {
-        "name": "Sree Narayana College Chempazhanthy",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Sree Narayana Institute of Technology Adoor",
-        "district": "Pathanamthitta",
-        "zone": "south"
-      },
-      {
-        "name": "Sree Narayana Polytechnic College",
-        "district": "Kollam",
-        "zone": "south"
-      },
-      {
-        "name": "Sree Sabareesa College",
-        "district": "Kottayam",
-        "zone": "south"
-      },
-      {
-        "name": "St Aloysius College Edathua",
-        "district": "Alappuzha",
-        "zone": "south"
-      },
-      {
-        "name": "St Berchmans College",
-        "district": "Kottayam",
-        "zone": "south"
-      },
-      {
-        "name": "St Dominics College Kanjirapally",
-        "district": "Kottayam",
-        "zone": "south"
-      },
-      {
-        "name": "St Georges College Aruvithura",
-        "district": "Kottayam",
-        "zone": "south"
-      },
-      {
-        "name": "St Gregorios College Kottarakara",
-        "district": "Kollam",
-        "zone": "south"
-      },
-      {
-        "name": "St Josephs College of Engineering and Technology",
-        "district": "Kottayam",
-        "zone": "south"
-      },
-      {
-        "name": "St Stephens College Uzhavoor",
-        "district": "Kottayam",
-        "zone": "south"
-      },
-      {
-        "name": "St Thomas College Kozhencherry",
-        "district": "Pathanamthitta",
-        "zone": "south"
-      },
-      {
-        "name": "St Thomas College Palai",
-        "district": "Kottayam",
-        "zone": "south"
-      },
-      {
-        "name": "St Thomas Institute For Science and Technology Trivandrum",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "St Xaviers College Vaikom",
-        "district": "Kottayam",
-        "zone": "south"
-      },
-      {
-        "name": "Tkm Institute of Technology",
-        "district": "Kollam",
-        "zone": "south"
-      },
-      {
-        "name": "Travancore Engineering College",
-        "district": "Kollam",
-        "zone": "south"
-      },
-      {
-        "name": "Ukf College of Engineering and Technology",
-        "district": "Kollam",
-        "zone": "south"
-      },
-      {
-        "name": "University College Thiruvananthapuram",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "University College of Engineering",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Valia Koonambaikulathamma College of Engineering and Technology",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Vidya Academy of Science and Technology Technical Campus",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Vtm Nss College Dhanuvachapuram",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Fatima Mata National College",
-        "district": "Kollam",
-        "zone": "south"
-      },
-      {
-        "name": "Carmel College of Engineering and Technology , Punnapra",
-        "district": "Alappuzha",
-        "zone": "south"
-      },
-      {
-        "name": "Sree Buddha College of Engineering , Pattoor",
-        "district": "Alappuzha",
-        "zone": "south"
-      },
-      {
-        "name": "Tkm College of Arts and Science",
-        "district": "Kollam",
-        "zone": "south"
-      },
-      {
-        "name": "Tkm College of Engineering",
-        "district": "Kollam",
-        "zone": "south"
-      },
-      {
-        "name": "Younus College of Engineering and Technology",
-        "district": "Kollam",
-        "zone": "south"
-      },
-      {
-        "name": "Kristu Jyoti College of Management and Technology , Changanassery",
-        "district": "Kottayam",
-        "zone": "south"
-      },
-      {
-        "name": "Saintgits College of Engineering (autonomous)",
-        "district": "Kottayam",
-        "zone": "south"
-      },
-      {
-        "name": "College of Engineering , Kallooppara",
-        "district": "Pathanamthitta",
-        "zone": "south"
-      },
-      {
-        "name": "Mar Athanasios College For Advanced Studies , Thiruvalla",
-        "district": "Pathanamthitta",
-        "zone": "south"
-      },
-      {
-        "name": "Ace College of Engineering , Thiruvallam",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Christ Nagar College , Maranalloor",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Govt Womens Polytechnic College , Kaimanam",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Lourdes Matha College of Science and Technology , Kuttichal",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Mahatma Gandhi College , Kesavadasapuram",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Mar Baselios College of Engineering and Technology , Nalanchira",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Mar Ivanios College (autonomous) , Nalanchira",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Marian Engineering College , Kazhakkoottam",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Musaliar College of Engineering , Chirayinkeezhu",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Rajadhani Institute of Engineering and Technology , Nagaroor",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Sree Chitra Thirunal College of Engineering",
-        "district": "Thiruvananthapuram",
-        "zone": "south"
-      },
-      {
-        "name": "Mar Baselios Christian College of Engineering and Technology , Pallikunnu",
-        "district": "Idukki",
-        "zone": "south"
-      },
-      {
-        "name": "Marian College Kuttikkanam (autonomous) , Kuttikkanam",
-        "district": "Idukki",
-        "zone": "south"
-      }
-    ]
-  
+  {
+    "name": "All Saints College",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Alphonsa College Pala",
+    "district": "Kottayam",
+    "zone": "south"
+  },
+  {
+    "name": "Assumption College Autonomous",
+    "district": "Kottayam",
+    "zone": "south"
+  },
+  {
+    "name": "Baker College For Women",
+    "district": "Kottayam",
+    "zone": "south"
+  },
+  {
+    "name": "Baselios Mathews Ii College of Engineering",
+    "district": "Kollam",
+    "zone": "south"
+  },
+  {
+    "name": "Bishop Chulaparambil Memorial College",
+    "district": "Kottayam",
+    "zone": "south"
+  },
+  {
+    "name": "Bishop Kurialacherry College For Women",
+    "district": "Kottayam",
+    "zone": "south"
+  },
+  {
+    "name": "Bishop Moore College",
+    "district": "Alappuzha",
+    "zone": "south"
+  },
+  {
+    "name": "Bishop Speechly College For Advanced Studies",
+    "district": "Kottayam",
+    "zone": "south"
+  },
+  {
+    "name": "Carmel Polytechnic College Alappuzha",
+    "district": "Alappuzha",
+    "zone": "south"
+  },
+  {
+    "name": "Catholicate College Pathanamthitta",
+    "district": "Pathanamthitta",
+    "zone": "south"
+  },
+  {
+    "name": "Central Polytechnic College Trivandrum",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Christ College Vizhinjam",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Christian College Kattakada",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Cms College Kottayam Autonomous",
+    "district": "Kottayam",
+    "zone": "south"
+  },
+  {
+    "name": "College of Applied Science Adoor",
+    "district": "Pathanamthitta",
+    "zone": "south"
+  },
+  {
+    "name": "College of Applied Science Ihrd Kalanjoor",
+    "district": "Pathanamthitta",
+    "zone": "south"
+  },
+  {
+    "name": "College of Applied Science Kundara",
+    "district": "Kollam",
+    "zone": "south"
+  },
+  {
+    "name": "College of Applied Science Kuttikkanam",
+    "district": "Idukki",
+    "zone": "south"
+  },
+  {
+    "name": "College of Applied Science Mavelikkara",
+    "district": "Alappuzha",
+    "zone": "south"
+  },
+  {
+    "name": "College of Applied Science Thodupuzha",
+    "district": "Idukki",
+    "zone": "south"
+  },
+  {
+    "name": "College of Engineering Aranmula",
+    "district": "Pathanamthitta",
+    "zone": "south"
+  },
+  {
+    "name": "College of Engineering Karunagappally",
+    "district": "Kollam",
+    "zone": "south"
+  },
+  {
+    "name": "College of Engineering Kidangoor",
+    "district": "Kottayam",
+    "zone": "south"
+  },
+  {
+    "name": "College of Engineering Munnar",
+    "district": "Idukki",
+    "zone": "south"
+  },
+  {
+    "name": "College of Engineering Pathanapuram",
+    "district": "Kollam",
+    "zone": "south"
+  },
+  {
+    "name": "College of Engineering Perumon",
+    "district": "Kollam",
+    "zone": "south"
+  },
+  {
+    "name": "College of Engineering Poonjar",
+    "district": "Kottayam",
+    "zone": "south"
+  },
+  {
+    "name": "College of Engineering and Management Punnapra",
+    "district": "Alappuzha",
+    "zone": "south"
+  },
+  {
+    "name": "Dc School of Management and Technology Trivandrum",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Deva Matha College Kuravilangad",
+    "district": "Kottayam",
+    "zone": "south"
+  },
+  {
+    "name": "Don Bosco College Kottiyam",
+    "district": "Kollam",
+    "zone": "south"
+  },
+  {
+    "name": "Emmanuel College Vazhichal Thiruvananthapuram",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Government College For Women Thiruvananthapuram",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Government College Nedumangad",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Government Engineering College Idukki",
+    "district": "Idukki",
+    "zone": "south"
+  },
+  {
+    "name": "Government Polytechnic College Kottayam",
+    "district": "Kottayam",
+    "zone": "south"
+  },
+  {
+    "name": "Government Polytechnic College Nedumangad",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Government Polytechnic College Pala",
+    "district": "Kottayam",
+    "zone": "south"
+  },
+  {
+    "name": "Government Polytechnic College Punalur",
+    "district": "Kollam",
+    "zone": "south"
+  },
+  {
+    "name": "Govt Polytechnic College Neyyatinkara",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Govt Polytechnic College Vandiperiyar",
+    "district": "Idukki",
+    "zone": "south"
+  },
+  {
+    "name": "John Cox Memorial Csi Institute of Technology Kannamoola",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Kerala Institute of Cooperative Management",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Kuriakose Elias College",
+    "district": "Kottayam",
+    "zone": "south"
+  },
+  {
+    "name": "Kvm College of Arts and Science",
+    "district": "Alappuzha",
+    "zone": "south"
+  },
+  {
+    "name": "Kvm College of Engineering and It",
+    "district": "Alappuzha",
+    "zone": "south"
+  },
+  {
+    "name": "Kvvs College of Science and Technology",
+    "district": "Pathanamthitta",
+    "zone": "south"
+  },
+  {
+    "name": "Lbs Institute of Technology For Women",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Mahaguru Institute of Technology",
+    "district": "Alappuzha",
+    "zone": "south"
+  },
+  {
+    "name": "Mangalam College of Engineering",
+    "district": "Kottayam",
+    "zone": "south"
+  },
+  {
+    "name": "Mannam Memorial N S S College Kottiyam",
+    "district": "Kollam",
+    "zone": "south"
+  },
+  {
+    "name": "Mar Chrysostom College",
+    "district": "Pathanamthitta",
+    "zone": "south"
+  },
+  {
+    "name": "Mar Gregorios College of Arts and Science",
+    "district": "Alappuzha",
+    "zone": "south"
+  },
+  {
+    "name": "Mar Ivanios College Mavelikara",
+    "district": "Alappuzha",
+    "zone": "south"
+  },
+  {
+    "name": "Mar Thoma College Tiruvalla",
+    "district": "Pathanamthitta",
+    "zone": "south"
+  },
+  {
+    "name": "Model Polytechnic College Painavu",
+    "district": "Idukki",
+    "zone": "south"
+  },
+  {
+    "name": "Mohandas College of Engineering and Technology",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Mount Zion Institute of Science and Technology",
+    "district": "Alappuzha",
+    "zone": "south"
+  },
+  {
+    "name": "Musaliar College of Engineering and Technology",
+    "district": "Pathanamthitta",
+    "zone": "south"
+  },
+  {
+    "name": "Muslim Association College of Engineering Venjaramoodu",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "N S S Polytechnic College Pandalam",
+    "district": "Pathanamthitta",
+    "zone": "south"
+  },
+  {
+    "name": "Nss College Pandalam",
+    "district": "Pathanamthitta",
+    "zone": "south"
+  },
+  {
+    "name": "P G Radhakrishnan Memorial Sree Narayana College Asan Hills Channanikkadu Kottayam",
+    "district": "Kottayam",
+    "zone": "south"
+  },
+  {
+    "name": "Pgm College Kangazha",
+    "district": "Kottayam",
+    "zone": "south"
+  },
+  {
+    "name": "Providence College of Engineering",
+    "district": "Alappuzha",
+    "zone": "south"
+  },
+  {
+    "name": "Providence School of Business",
+    "district": "Alappuzha",
+    "zone": "south"
+  },
+  {
+    "name": "Sahodaran Ayyappan Smaraka Sndp Yogam College",
+    "district": "Pathanamthitta",
+    "zone": "south"
+  },
+  {
+    "name": "Sree Ayyappa College",
+    "district": "Alappuzha",
+    "zone": "south"
+  },
+  {
+    "name": "Sree Narayan College Kollam",
+    "district": "Kollam",
+    "zone": "south"
+  },
+  {
+    "name": "Sree Narayana College Chempazhanthy",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Sree Narayana Institute of Technology Adoor",
+    "district": "Pathanamthitta",
+    "zone": "south"
+  },
+  {
+    "name": "Sree Narayana Polytechnic College",
+    "district": "Kollam",
+    "zone": "south"
+  },
+  {
+    "name": "Sree Sabareesa College",
+    "district": "Kottayam",
+    "zone": "south"
+  },
+  {
+    "name": "St Aloysius College Edathua",
+    "district": "Alappuzha",
+    "zone": "south"
+  },
+  {
+    "name": "St Berchmans College",
+    "district": "Kottayam",
+    "zone": "south"
+  },
+  {
+    "name": "St Dominics College Kanjirapally",
+    "district": "Kottayam",
+    "zone": "south"
+  },
+  {
+    "name": "St Georges College Aruvithura",
+    "district": "Kottayam",
+    "zone": "south"
+  },
+  {
+    "name": "St Gregorios College Kottarakara",
+    "district": "Kollam",
+    "zone": "south"
+  },
+  {
+    "name": "St Josephs College of Engineering and Technology",
+    "district": "Kottayam",
+    "zone": "south"
+  },
+  {
+    "name": "St Stephens College Uzhavoor",
+    "district": "Kottayam",
+    "zone": "south"
+  },
+  {
+    "name": "St Thomas College Kozhencherry",
+    "district": "Pathanamthitta",
+    "zone": "south"
+  },
+  {
+    "name": "St Thomas College Palai",
+    "district": "Kottayam",
+    "zone": "south"
+  },
+  {
+    "name": "St Thomas Institute For Science and Technology Trivandrum",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "St Xaviers College Vaikom",
+    "district": "Kottayam",
+    "zone": "south"
+  },
+  {
+    "name": "Tkm Institute of Technology",
+    "district": "Kollam",
+    "zone": "south"
+  },
+  {
+    "name": "Travancore Engineering College",
+    "district": "Kollam",
+    "zone": "south"
+  },
+  {
+    "name": "Ukf College of Engineering and Technology",
+    "district": "Kollam",
+    "zone": "south"
+  },
+  {
+    "name": "University College Thiruvananthapuram",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "University College of Engineering",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Valia Koonambaikulathamma College of Engineering and Technology",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Vidya Academy of Science and Technology Technical Campus",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Vtm Nss College Dhanuvachapuram",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Fatima Mata National College",
+    "district": "Kollam",
+    "zone": "south"
+  },
+  {
+    "name": "Saraswathy College of Arts and Science ,Trivanadrum",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Parumala Margregorious college,Thiruvalla",
+    "district": "Pathanamthitta",
+    "zone": "south"
+  },
+  {
+    "name": "St.Marys college for Women,Thiruvalla",
+    "district": "Pathanamthitta",
+    "zone": "south"
+  },
+  {
+    "name": "Bishop Jerom college of Engineering",
+    "district": "Kollam",
+    "zone": "south"
+  },
+  {
+    "name": "Xavier Institute of management",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "University of Kerala",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Government Engineering College, Barton Hill",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Carmel College of Engineering and Technology , Punnapra",
+    "district": "Alappuzha",
+    "zone": "south"
+  },
+  {
+    "name": "Sree Buddha College of Engineering , Pattoor",
+    "district": "Alappuzha",
+    "zone": "south"
+  },
+  {
+    "name": "Tkm College of Arts and Science",
+    "district": "Kollam",
+    "zone": "south"
+  },
+  {
+    "name": "Tkm College of Engineering",
+    "district": "Kollam",
+    "zone": "south"
+  },
+  {
+    "name": "Younus College of Engineering and Technology",
+    "district": "Kollam",
+    "zone": "south"
+  },
+  {
+    "name": "Kristu Jyoti College of Management and Technology , Changanassery",
+    "district": "Kottayam",
+    "zone": "south"
+  },
+  {
+    "name": "Saintgits College of Engineering (autonomous)",
+    "district": "Kottayam",
+    "zone": "south"
+  },
+  {
+    "name": "College of Engineering , Kallooppara",
+    "district": "Pathanamthitta",
+    "zone": "south"
+  },
+  {
+    "name": "Mar Athanasios College For Advanced Studies , Thiruvalla",
+    "district": "Pathanamthitta",
+    "zone": "south"
+  },
+  {
+    "name": "Ace College of Engineering , Thiruvallam",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Christ Nagar College , Maranalloor",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Govt Womens Polytechnic College , Kaimanam",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Lourdes Matha College of Science and Technology , Kuttichal",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Mahatma Gandhi College , Kesavadasapuram",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Mar Baselios College of Engineering and Technology , Nalanchira",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Mar Ivanios College (autonomous) , Nalanchira",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Marian Engineering College , Kazhakkoottam",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Musaliar College of Engineering , Chirayinkeezhu",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Rajadhani Institute of Engineering and Technology , Nagaroor",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Sree Chitra Thirunal College of Engineering",
+    "district": "Thiruvananthapuram",
+    "zone": "south"
+  },
+  {
+    "name": "Mar Baselios Christian College of Engineering and Technology , Pallikunnu",
+    "district": "Idukki",
+    "zone": "south"
+  },
+  {
+    "name": "Marian College Kuttikkanam (autonomous) , Kuttikkanam",
+    "district": "Idukki",
+    "zone": "south"
+  },
+  {
+    "name": "Ahalia School of Engineering and Technology",
+    "district": "Palakkad",
+    "zone": "north"
+  },
+  {
+    "name": "Amal College of Advanced Studies",
+    "district": "Malapuram",
+    "zone": "north"
+  },
+  {
+    "name": "Centre For Computer Science and Information Technology Vatakara Ccsit Vatakara",
+    "district": "Kozhikode",
+    "zone": "north"
+  },
+  {
+    "name": "Chinmaya Arts and Science College For Women",
+    "district": "Kannur",
+    "zone": "north"
+  },
+  {
+    "name": "College of Applied Science Nadapuram",
+    "district": "Kozhikode",
+    "zone": "north"
+  },
+  {
+    "name": "College of Applied Science Vadakkencherry",
+    "district": "Palakkad",
+    "zone": "north"
+  },
+  {
+    "name": "College of Engineering Thalassery",
+    "district": "Kannur",
+    "zone": "north"
+  },
+  {
+    "name": "College of Engineering Trikaripur",
+    "district": "Kasaragode",
+    "zone": "north"
+  },
+  {
+    "name": "College of Engineering Vadakara",
+    "district": "Kozhikode",
+    "zone": "north"
+  },
+  {
+    "name": "De Paul Institute of Science and Technology",
+    "district": "Malapuram",
+    "zone": "north"
+  },
+  {
+    "name": "Department of Information Technology Kannur University",
+    "district": "Kannur",
+    "zone": "north"
+  },
+  {
+    "name": "Don Bosco Arts and Science College Angadikadavu",
+    "district": "Kannur",
+    "zone": "north"
+  },
+  {
+    "name": "Don Bosco College",
+    "district": "Wayanad",
+    "zone": "north"
+  },
+  {
+    "name": "E K Nayanar Memorial Model Polytechnic College Kalliassery",
+    "district": "Kannur",
+    "zone": "north"
+  },
+  {
+    "name": "Farook College",
+    "district": "Kozhikode",
+    "zone": "north"
+  },
+  {
+    "name": "Government Arts and Science College Calicut",
+    "district": "Kozhikode",
+    "zone": "north"
+  },
+  {
+    "name": "Government College Madappally",
+    "district": "Kozhikode",
+    "zone": "north"
+  },
+  {
+    "name": "Government Engineering College Wayanad",
+    "district": "Wayanad",
+    "zone": "north"
+  },
+  {
+    "name": "Government Polytechnic College Mattannur",
+    "district": "Kannur",
+    "zone": "north"
+  },
+  {
+    "name": "Government Polytechnic College Meppadi",
+    "district": "Wayanad",
+    "zone": "north"
+  },
+  {
+    "name": "Govt College Manathavady",
+    "district": "Wayanad",
+    "zone": "north"
+  },
+  {
+    "name": "Govt Law College Kozhikode",
+    "district": "Kozhikode",
+    "zone": "north"
+  },
+  {
+    "name": "Gurudev Arts and Science College",
+    "district": "Kannur",
+    "zone": "north"
+  },
+  {
+    "name": "Ideal College For Advanced Studies Kadakassery",
+    "district": "Malapuram",
+    "zone": "north"
+  },
+  {
+    "name": "Ihrd College of Applied Science Kozhikode",
+    "district": "Kozhikode",
+    "zone": "north"
+  },
+  {
+    "name": "Institute of Engineering and Technology University of Calicut",
+    "district": "Malapuram",
+    "zone": "north"
+  },
+  {
+    "name": "Jawaharlal College of Engineering and Technology",
+    "district": "Palakkad",
+    "zone": "north"
+  },
+  {
+    "name": "Jayasree Arts and Science College",
+    "district": "Wayanad",
+    "zone": "north"
+  },
+  {
+    "name": "Jdt Islam College of Arts and Science",
+    "district": "Kozhikode",
+    "zone": "north"
+  },
+  {
+    "name": "Jdt Islam Polytechnic College Kozhikode",
+    "district": "Kozhikode",
+    "zone": "north"
+  },
+  {
+    "name": "Kannur University",
+    "district": "Kannur",
+    "zone": "north"
+  },
+  {
+    "name": "Kerala Govt Polytechnic College Kozhikode",
+    "district": "Kozhikode",
+    "zone": "north"
+  },
+  {
+    "name": "Kmo Arts and Science College Koduvally",
+    "district": "Kozhikode",
+    "zone": "north"
+  },
+  {
+    "name": "Little Flower Institute of Social Sciences and Health",
+    "district": "Kozhikode",
+    "zone": "north"
+  },
+  {
+    "name": "Majlis Arts and Science College",
+    "district": "Malapuram",
+    "zone": "north"
+  },
+  {
+    "name": "Malabar Christian College",
+    "district": "Kozhikode",
+    "zone": "north"
+  },
+  {
+    "name": "Malabar College of Commerce and Science Manoor",
+    "district": "Malapuram",
+    "zone": "north"
+  },
+  {
+    "name": "Mes Mampad College",
+    "district": "Malapuram",
+    "zone": "north"
+  },
+  {
+    "name": "Mes Ponnani College",
+    "district": "Malapuram",
+    "zone": "north"
+  },
+  {
+    "name": "Met Arts and Science College Nadapuram",
+    "district": "Kozhikode",
+    "zone": "north"
+  },
+  {
+    "name": "Mhes College of Science and Technology",
+    "district": "Kozhikode",
+    "zone": "north"
+  },
+  {
+    "name": "Mk Raghavan Memorial Sndp Yogam Arts and Science College",
+    "district": "Wayanad",
+    "zone": "north"
+  },
+  {
+    "name": "Model Polytechnic College",
+    "district": "Kozhikode",
+    "zone": "north"
+  },
+  {
+    "name": "Monti International Institute of Management Studies",
+    "district": "Malapuram",
+    "zone": "north"
+  },
+  {
+    "name": "National College of Arts and Science Puliyavu",
+    "district": "Kozhikode",
+    "zone": "north"
+  },
+  {
+    "name": "Pk Kalan Memorial College of Applied Science Manantgavady",
+    "district": "Wayanad",
+    "zone": "north"
+  },
+  {
+    "name": "Rajadhani Institute of Science and Technology Palakkad",
+    "district": "Palakkad",
+    "zone": "north"
+  },
+  {
+    "name": "Safi Institute of Advanced Study Vazhayoor",
+    "district": "Malapuram",
+    "zone": "north"
+  },
+  {
+    "name": "Sir Syed Institute For Technical Studies",
+    "district": "Kannur",
+    "zone": "north"
+  },
+  {
+    "name": "Snes Institute of Management Studies and Research",
+    "district": "Kozhikode",
+    "zone": "north"
+  },
+  {
+    "name": "Sree Narayana College Kannur",
+    "district": "Kannur",
+    "zone": "north"
+  },
+  {
+    "name": "Sreekrishnapuram V T Bhattathiripad College",
+    "district": "Palakkad",
+    "zone": "north"
+  },
+  {
+    "name": "Sreepathy Institute of Management and Technology",
+    "district": "Palakkad",
+    "zone": "north"
+  },
+  {
+    "name": "Ssm Polytechnic College Tirur",
+    "district": "Malapuram",
+    "zone": "north"
+  },
+  {
+    "name": "St Josephs College Devagiri",
+    "district": "Kozhikode",
+    "zone": "north"
+  },
+  {
+    "name": "St Marys College",
+    "district": "Wayanad",
+    "zone": "north"
+  },
+  {
+    "name": "St Pius X College Rajapuram",
+    "district": "Kasaragode",
+    "zone": "north"
+  },
+  {
+    "name": "St Thomas College of Engineering and Technology Mattannur Kannur Kerala",
+    "district": "Kannur",
+    "zone": "north"
+  },
+  {
+    "name": "St Xaviers Arts and Science College Calicut",
+    "district": "Kozhikode",
+    "zone": "north"
+  },
+  {
+    "name": "Sullamussalam Science College Areekode",
+    "district": "Malapuram",
+    "zone": "north"
+  },
+  {
+    "name": "Vedavyasa Institute of Technology",
+    "district": "Malapuram",
+    "zone": "north"
+  },
+  {
+    "name": "Vimal Jyothi Institute of Management and Research",
+    "district": "Kannur",
+    "zone": "north"
+  },
+  {
+    "name": "Wmo Imam Ghazzali Arts and Science College",
+    "district": "Wayanad",
+    "zone": "north"
+  },
+  {
+    "name": "Government Women's Polytechnic College",
+    "district": "Kozhikode",
+    "zone": "north"
+  },
+  {
+    "name": "Calicut University",
+    "district": "Malapuram",
+    "zone": "north"
+  },
+  {
+    "name": "MES Arts and Science college , Kallanthode",
+    "district": "Kozhikode",
+    "zone": "north"
+  },
+  {
+    "name": "Eranad Knowledge city Technical Campus",
+    "district": "Malapuram",
+    "zone": "north"
+  },
+  {
+    "name": "Sree Narayana Guru College of Engineering & Technology",
+    "district": "Kannur",
+    "zone": "north"
+  },
+  {
+    "name": "Jai Bharath College of Management and Engineering Technology",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Jai Bharath Arts and Science College",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Vimala College Autonomous",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Kmea Engineering College Edathala",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Model Engineering College Thrikkakkaa",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Government Arts and Science College Chelakkara",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "St Teresas College",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Sacred Heart College Thevara Kochi",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Thiagarajar Polytechnic College",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Royal College of Engineering and Technology",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Don Bosco College Mannuthy",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Mets School of Engineering",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Al Ameen College",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Indira Gandhi Institute of Polytechnic and Engineering (polytechnic)",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Snm Institute of Management and Technology",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "St Xavier S College For Women Aluva",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Govt Polytechnic College Kalamassery",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Malabar College of Engineering and Technology",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Indira Gandhi Institute of Polytechnic and Engineering (engineering)",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Ies College of Engineering",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "St Josephs College Autonomous",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Government Polytechnic College Muttom",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Thejus Engineering College",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Govt Womens Polytechnic College Thrissur",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "St Pauls College Kalamassery",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Govt Polytechnic College Kunnamkulam",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Holy Grace Academy of Engineering",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Holy Grace Polytechnic College",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Baselios Poulose Ii Catholicos College",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Scms School of Technology and Management",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Prajyoti Niketan College",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Mets Polytechnic",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Vidya Academy of Science and Technology",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Mets School of Engineering Mala",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Mar Athanasius College of Engineering",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "De Paul Institute of Science and Technology",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Maharajas Technological Institute",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Sahrdaya College of Advanced Studies",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Mar Thoma College For Women Perumbavoor",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "College of Applied Science Nattika",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "St Thomas College Thrissur",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Gptc Kothamangalam",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Mgm College of Engineering and Technology",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Albertian Institute of Science and Technology",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Mes Advanced Institute of Management and Technology",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Mes Mk Mackar Pillay College For Advanced Studies",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Kkmmptc Mala",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Mar Baselious Institute of Technology and Science",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Govt Womens Polytechnic College Ernakulam",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Universal Engineering College",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Nirmala College Muvattupuzha",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Mes T O Abdulla Memorial College Kunnukara",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Rajagiri School of Engineering & Technology",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Little Flower Engineering Institute",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Jyothi Engineering College",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Christ College of Engineering",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "College of Applied Science Chelakkara",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Government Engineering College, Thrissur",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Muthoot Institute of Technology & Science",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Bharata Mata College",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Adishankara Institute of Engineering and Technology",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Sahrdaya College of Engineering and Technology",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Nirmala College of Arts & Science",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Toc H Institute of Science & Technology",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Union Christian College , Aluva",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Sree Narayana Gurukulam College of Engineering",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Viswajyothi College of Engineering and Technologylogy,vazhakulam",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Ilahia College of Engineering and Technology.",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Rajagiri College of Social Sciences(autonomous)",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Mes College Marampally",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Federal Institute of Science and Technologies(fisat)",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Nehru College of Engineering and Research Center",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Naipunnya Institue of Management and Information Technology, Pongam",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Christ College (autonomous), Irinjalakuda",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Scms School of Engineering & Technology",
+    "district": "Thrissur",
+    "zone": "north"
+  },
+  {
+    "name": "Gpc Perumbavoor",
+    "district": "Ernakulam",
+    "zone": "north"
+  },
+  {
+    "name": "Vimal Jyothi Engineering College , Chemperi",
+    "district": "Kannur",
+    "zone": "north"
+  },
+  {
+    "name": "Lbs College of Engineering Kasaragod , Bovikanam",
+    "district": "Kasaragod",
+    "zone": "north"
+  },
+  {
+    "name": "College of Applied Science Thamarassery",
+    "district": "Kozhikode",
+    "zone": "north"
+  },
+  {
+    "name": "Government Engineering College Kozhikode",
+    "district": "Kozhikode",
+    "zone": "north"
+  },
+  {
+    "name": "Providence Women's College Kozhikode",
+    "district": "Kozhikode",
+    "zone": "north"
+  },
+  {
+    "name": "Mea Engineering College , Perinthalmanna",
+    "district": "Malappuram",
+    "zone": "north"
+  },
+  {
+    "name": "Mes College of Engineering Kuttippuram",
+    "district": "Malappuram",
+    "zone": "north"
+  },
+  {
+    "name": "Mes Kalladi College , Mannarkkad",
+    "district": "Palakkad",
+    "zone": "north"
+  },
+  {
+    "name": "Nss College of Engineering Palakkad",
+    "district": "Palakkad",
+    "zone": "north"
+  },
+  {
+    "name": "Yuvakshetra Institute of Management Studies",
+    "district": "Palakkad",
+    "zone": "north"
+  },
+  {
+    "name": "Wmo Arts and Science College , Muttil",
+    "district": "Wayanad",
+    "zone": "north"
+  },
+  {
+    "name": "Nilgiri College of Arts and Science , Thallor, Tamil Nadu",
+    "district": "Other",
+    "zone": "north"
+  }
+]
