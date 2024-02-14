@@ -98,6 +98,4 @@ const mobileCheck = async (req, res) => {
         }
     }
 }
-
-
 module.exports = { insertStudent, studentValidator, emailValidator, mobileCheck, emailCheck, mobileValidator };
