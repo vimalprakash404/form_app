@@ -12,7 +12,7 @@ const dashboard = async (req, res) => {
             Name: studentId.name,
             Email: studentId.email,
             Mobile: studentId.mobile,
-            College: collegeId.name,
+            College: collegeId.name+" ["+collegeId.district+"]",
             Department: studentId.department,
             Sem: studentId.sem,
             District: collegeId ? collegeId.district : null,
